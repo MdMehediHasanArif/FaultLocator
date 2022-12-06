@@ -1,0 +1,16 @@
+C:\Users\BS993\Documents\VS Projects\FaultLocator\FaultLocator\bin\Debug\FaultLocator.exe.config
+C:\Users\BS993\Documents\VS Projects\FaultLocator\FaultLocator\bin\Debug\FaultLocator.exe
+C:\Users\BS993\Documents\VS Projects\FaultLocator\FaultLocator\bin\Debug\FaultLocator.pdb
+C:\Users\BS993\Documents\VS Projects\FaultLocator\FaultLocator\obj\Debug\FaultLocator.csproj.AssemblyReference.cache
+C:\Users\BS993\Documents\VS Projects\FaultLocator\FaultLocator\obj\Debug\FaultLocator.csproj.SuggestedBindingRedirects.cache
+C:\Users\BS993\Documents\VS Projects\FaultLocator\FaultLocator\obj\Debug\FaultLocator.Form1.resources
+C:\Users\BS993\Documents\VS Projects\FaultLocator\FaultLocator\obj\Debug\FaultLocator.Form2.resources
+C:\Users\BS993\Documents\VS Projects\FaultLocator\FaultLocator\obj\Debug\FaultLocator.Properties.Resources.resources
+C:\Users\BS993\Documents\VS Projects\FaultLocator\FaultLocator\obj\Debug\FaultLocator.csproj.GenerateResource.cache
+C:\Users\BS993\Documents\VS Projects\FaultLocator\FaultLocator\obj\Debug\FaultLocator.csproj.CoreCompileInputs.cache
+C:\Users\BS993\Documents\VS Projects\FaultLocator\FaultLocator\obj\Debug\FaultLocator.exe
+C:\Users\BS993\Documents\VS Projects\FaultLocator\FaultLocator\obj\Debug\FaultLocator.pdb
+C:\Users\BS993\Documents\VS Projects\FaultLocator\FaultLocator\bin\Debug\FaultLocator.exe.manifest
+C:\Users\BS993\Documents\VS Projects\FaultLocator\FaultLocator\bin\Debug\FaultLocator.application
+C:\Users\BS993\Documents\VS Projects\FaultLocator\FaultLocator\obj\Debug\FaultLocator.exe.manifest
+C:\Users\BS993\Documents\VS Projects\FaultLocator\FaultLocator\obj\Debug\FaultLocator.application
